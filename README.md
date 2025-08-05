@@ -16,16 +16,20 @@ Hi there! I’m **akiakyo** — a passionate minecraft self-taught developer exp
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 
-### 🟠 AKY Services  
+### AKY Services  
 <img src="https://media.discordapp.net/attachments/1386703646414209046/1401424618543124500/ChatGPT_Image_Aug_3_2025_11_52_42_AM.png?ex=689385a2&is=68923422&hm=20525f62fdf89406ba55da86cdc1acb5a09e47ce193615b19a70336d56c6c6db&=&format=webp&quality=lossless&width=960&height=960" alt="AKY Services" width="200"/>
 
 ---
 
 ### 🟢 Magbungkal.net  
 <img src="https://media.discordapp.net/attachments/1386703646414209046/1402378443584180366/Magbungkal_new_logo_PNG_Transparent.png?ex=6893b233&is=689260b3&hm=3135194765cffc7bdd95e0b801a7c5bfddf3b739df333d0a2cbbf49f0e147f0c&=&format=webp&quality=lossless&width=960&height=960" alt="Magbungkal.net" width="200"/>
+
+> 🟫 A Minecraft server — *Est. July 2023*  
+> 👑 Former Owner: **July 2023 – March 2025**  
+> 🛠️ Current Developer: **March 2025 – Present**
 
 ---
 
