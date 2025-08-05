@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://imgur.com/a/6YGIUhL" alt="akiakyo animated" width="250"/>
+  <img src="https://i.imgur.com/uzSZUX8.gif" alt="akiakyo animated" width="250"/>
 </h1>
 
 Hi there! I’m **akiakyo** — a passionate minecraft self-taught developer exploring automation, bots, and custom tools.  
