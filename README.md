@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=akiakyo" alt="Typing SVG" />
+  <img src="https://imgur.com/a/6YGIUhL" alt="akiakyo animated" width="250"/>
 </h1>
 
 Hi there! I’m **akiakyo** — a passionate minecraft self-taught developer exploring automation, bots, and custom tools.  
