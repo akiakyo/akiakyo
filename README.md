@@ -45,6 +45,6 @@ Hi there! I’m **akiakyo** — a passionate minecraft self-taught developer exp
 ## Connect with Me
 
 - Discord: `akiakyo`  
-- Portfolio: *coming soon...*
+- Portfolio: https://akiakyo.github.io
 
 ---
