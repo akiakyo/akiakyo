@@ -180,122 +180,71 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">
-  Minecraft development, server optimization, automation, and community-driven projects.
-</p>
+<p align="center">Minecraft development, server optimization, automation, and community-driven projects.</p>
 
 <table>
-  <tbody>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <br />
-
-        <img
-          src="https://media.discordapp.net/attachments/1386703646414209046/1401424618543124500/ChatGPT_Image_Aug_3_2025_11_52_42_AM.png?ex=6a716d62&amp;is=6a701be2&amp;hm=920f365f05fa866d6179a51466acf80b2023e20f4bd258071c50bc5a39cb33b3&amp;format=webp&amp;quality=lossless&amp;width=320&amp;height=320"
-          width="145"
-          height="145"
-          alt="AKY Services Logo"
-        />
-
-        <h3>AKY Services</h3>
-
-        <p>
-          Professional Minecraft development services focused on custom
-          systems, scripting, plugin configuration, optimization, automation,
-          and Discord integration.
-        </p>
-
-        <p>
-          <code>Denizen Scripting</code>
-          <code>Plugin Configuration</code>
-          <code>Discord Bots</code>
-        </p>
-
-        <p>
-          <code>Paper</code>
-          <code>Purpur</code>
-          <code>Spigot</code>
-          <code>Velocity</code>
-        </p>
-
-        <p>
-          <code>LuckPerms</code>
-          <code>ProtocolLib</code>
-          <code>PlaceholderAPI</code>
-        </p>
-
-        <p>
-          <code>MythicMobs</code>
-          <code>Citizens</code>
-          <code>ViaVersion</code>
-        </p>
-
-        <p>
-          <code>WorldEdit</code>
-          <code>WorldGuard</code>
-          <code>GeyserMC</code>
-          <code>Floodgate</code>
-        </p>
-
-        <p>
-          <code>Spark Profiler</code>
-          <code>DiscordSRV</code>
-          <code>Nexo</code>
-          <code>Oraxen</code>
-        </p>
-
-        <br />
-      </td>
-
-      <td width="50%" align="center" valign="top">
-        <br />
-
-        <a href="https://magbungkal.com/">
-          <img
-            src="https://media.discordapp.net/attachments/1490239739184418866/1500343755180609576/Logo_Main_Logo_NOBG.png?ex=6a716182&amp;is=6a701002&amp;hm=7496275ae62c63907e6de294c9bf76c217810a3cbd27dabb3ce9e3c7ce0dd277&amp;format=webp&amp;quality=lossless"
-            width="145"
-            height="145"
-            alt="Magbungkal MC Logo"
-          />
-        </a>
-
-        <h3>Magbungkal MC</h3>
-
-        <p>
-          A Filipino Minecraft network featuring Survival Economy,
-          SkyBlock Economy, custom gameplay systems, community features,
-          and server automation.
-        </p>
-
-        <p>
-          <code>Survival Economy</code>
-          <code>SkyBlock Economy</code>
-        </p>
-
-        <p>
-          <code>Custom Gameplay</code>
-          <code>Server Automation</code>
-        </p>
-
-        <p>
-          <strong>Established</strong><br />
-          July 2023
-        </p>
-
-        <p>
-          <strong>Former Owner</strong><br />
-          July 2023 – March 2025
-        </p>
-
-        <p>
-          <strong>Current Developer</strong><br />
-          March 2025 – Present
-        </p>
-
-        <br />
-      </td>
-    </tr>
-  </tbody>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<img src="https://media.discordapp.net/attachments/1386703646414209046/1401424618543124500/ChatGPT_Image_Aug_3_2025_11_52_42_AM.png?ex=6a716d62&amp;is=6a701be2&amp;hm=920f365f05fa866d6179a51466acf80b2023e20f4bd258071c50bc5a39cb33b3&amp;format=webp&amp;quality=lossless&amp;width=320&amp;height=320" width="145" alt="AKY Services Logo">
+<h3>AKY Services</h3>
+<p>Professional Minecraft development services focused on custom systems, scripting, plugin configuration, optimization, automation, and Discord integration.</p>
+<p>
+<code>Denizen Scripting</code>
+<code>Plugin Configuration</code>
+<code>Discord Bots</code>
+</p>
+<p>
+<code>Paper</code>
+<code>Purpur</code>
+<code>Spigot</code>
+<code>Velocity</code>
+</p>
+<p>
+<code>LuckPerms</code>
+<code>ProtocolLib</code>
+<code>PlaceholderAPI</code>
+</p>
+<p>
+<code>MythicMobs</code>
+<code>Citizens</code>
+<code>ViaVersion</code>
+</p>
+<p>
+<code>WorldEdit</code>
+<code>WorldGuard</code>
+<code>GeyserMC</code>
+<code>Floodgate</code>
+</p>
+<p>
+<code>Spark Profiler</code>
+<code>DiscordSRV</code>
+<code>Nexo</code>
+<code>Oraxen</code>
+</p>
+<br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://magbungkal.com/">
+<img src="https://media.discordapp.net/attachments/1490239739184418866/1500343755180609576/Logo_Main_Logo_NOBG.png?ex=6a716182&amp;is=6a701002&amp;hm=7496275ae62c63907e6de294c9bf76c217810a3cbd27dabb3ce9e3c7ce0dd277&amp;format=webp&amp;quality=lossless" width="145" alt="Magbungkal MC Logo">
+</a>
+<h3>Magbungkal MC</h3>
+<p>A Filipino Minecraft network featuring Survival Economy, SkyBlock Economy, custom gameplay systems, community features, and server automation.</p>
+<p>
+<code>Survival Economy</code>
+<code>SkyBlock Economy</code>
+</p>
+<p>
+<code>Custom Gameplay</code>
+<code>Server Automation</code>
+</p>
+<p><strong>Established</strong><br>July 2023</p>
+<p><strong>Former Owner</strong><br>July 2023 – March 2025</p>
+<p><strong>Current Developer</strong><br>March 2025 – Present</p>
+<br>
+</td>
+</tr>
 </table>
 
 ---
