@@ -78,23 +78,17 @@
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=akiakyo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="akiakyo GitHub statistics"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiakyo&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=350"
-    alt="akiakyo most used languages"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akiakyo&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
+    alt="akiakyo Most Used Languages"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=akiakyo&theme=github-dark&hide_border=true"
-    alt="akiakyo GitHub contribution streak"
+    src="https://streak-stats.demolab.com/?user=akiakyo&theme=github-dark-blue&hide_border=true"
+    alt="akiakyo GitHub Contribution Streak"
+    height="180"
   />
 </p>
 
