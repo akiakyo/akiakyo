@@ -78,17 +78,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akiakyo&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
-    alt="akiakyo Most Used Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=akiakyo&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=akiakyo&theme=github-dark-blue&hide_border=true"
     alt="akiakyo GitHub Contribution Streak"
-    height="180"
   />
 </p>
 
@@ -238,9 +229,7 @@ scripting, plugin configuration, optimization, automation, and Discord integrati
 
 <br>
 
-<a href="https://magbungkal.com/">
-  <h3>Magbungkal MC</h3>
-</a>
+<h3>Magbungkal MC</h3>
 
 <p>
 A Filipino Minecraft network featuring Survival Economy, SkyBlock Economy,
