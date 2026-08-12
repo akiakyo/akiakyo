@@ -128,38 +128,36 @@
   <code>Ubuntu</code>
 </p>
 
----
-
 <h2 align="center">Editing Software</h2>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ps,ae,ai&theme=dark"
-    alt="Adobe Photoshop, Adobe After Effects, and Adobe Illustrator"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"
-    alt="Adobe Photoshop"
-  />
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" />
+      <br>
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" height="48" alt="After Effects" />
+      <br>
+      <sub><b>After Effects</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator" />
+      <br>
+      <sub><b>Illustrator</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut Pro" />
+      <br>
+      <sub><b>CapCut Pro</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://img.shields.io/badge/Adobe%20After%20Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF"
-    alt="Adobe After Effects"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"
-    alt="Adobe Illustrator"
-  />
-
-  <img
-    src="https://img.shields.io/badge/CapCut%20Pro-000000?style=for-the-badge&logo=capcut&logoColor=FFFFFF"
-    alt="CapCut Pro"
-  />
-</p>
+</div>
 
 ---
 
