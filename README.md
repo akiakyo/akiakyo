@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img
     src="https://i.imgur.com/UXX7XNm.gif"
     alt="animated logo"
@@ -6,29 +6,29 @@
   />
 </h1>
 
-<p align="center">
+<p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Software+Engineer;Full+Stack+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Digital+Creator"
     alt="Animated introduction"
   />
 </p>
 
-<p align="center">
+<p align="left">
   Computer Engineering student at the Polytechnic University of the Philippines,
   passionate about software engineering, web technologies, creative design,
   and building digital solutions.
 </p>
 
-<p align="center">
+<p align="left>
   <img
     src="https://komarev.com/ghpvc/?username=akiakyo&label=PROFILE+VIEWS&style=for-the-badge&color=161B22"
     alt="Profile views"
   />
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -50,9 +50,9 @@
 
 ---
 
-<h2 align="center">Development Tools</h2>
+<h2 align="left">Development Tools</h2>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -71,9 +71,9 @@
 
 ---
 
-<h2 align="center">Editing Software</h2>
+<h2 align="left">Editing Software</h2>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
