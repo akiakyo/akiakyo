@@ -26,60 +26,26 @@
   />
 </p>
 
----
-
-<h2 align="center">About Me</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Education</strong></td>
-      <td>Computer Engineering | Polytechnic University of the Philippines</td>
-    </tr>
-
-    <tr>
-      <td><strong>Focus</strong></td>
-      <td>Software Engineering, Web Development, System Design, and Digital Solutions</td>
-    </tr>
-
-    <tr>
-      <td><strong>Interests</strong></td>
-      <td>Programming, UI/UX Design, Automation, Video Editing, and Technology</td>
-    </tr>
-
-    <tr>
-      <td><strong>Location</strong></td>
-      <td>Philippines</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,react,prisma,postgres,nodejs,express,flutter,dart,python,java,cpp,mysql&theme=dark&perline=7"
-    alt="Tech Stack"
-  />
-</p>
 
-<p align="center">
-  <code>TypeScript</code>
-  <code>Next.js</code>
-  <code>Tailwind CSS</code>
-  <code>React</code>
-  <code>Prisma</code>
-  <code>PostgreSQL</code>
-  <code>Node.js</code>
-  <code>Express</code>
-  <code>Flutter</code>
-  <code>Dart</code>
-  <code>Python</code>
-  <code>Java</code>
-  <code>C++</code>
-  <code>MySQL</code>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/RADIX%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
 </p>
 
 ---
@@ -99,11 +65,8 @@
   <code>Git</code>
   <code>GitHub</code>
   <code>Docker</code>
-  <code>Linux</code>
-  <code>Ubuntu</code>
   <code>Vercel</code>
   <code>Figma</code>
-  <code>Postman</code>
 </p>
 
 ---
@@ -132,23 +95,6 @@
   />
 </p>
 
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akiakyo&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=akiakyo&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
 
 <h2 align="center">Featured Skills</h2>
 
