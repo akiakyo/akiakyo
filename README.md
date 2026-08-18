@@ -21,31 +21,40 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=akiakyo&label=PROFILE+VIEWS&style=for-the-badge&color=161B22"
+    src="https://komarev.com/ghpvc/?username=akiakyo&label=PROFILE+VIEWS&style=plastic"
     alt="Profile views"
   />
 </p>
+
+---
 
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+
 <br>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"/>
+
 <br>
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white"/>
+
 <br>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ---
@@ -54,11 +63,11 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
 
 </p>
 
@@ -68,10 +77,24 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/PREMIERE%20PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=plastic&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=plastic&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=plastic&logo=capcut&logoColor=white"/>
+
+</p>
+
+---
+
+<h2 align="left">Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://www.instagram.com/ak___y__o/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Discord-%40akiakyo-5865F2?style=social&logo=discord&logoColor=white"/>
 
 </p>
