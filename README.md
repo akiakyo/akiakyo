@@ -1,21 +1,22 @@
 <h1 align="center">
   <img
     src="https://i.imgur.com/UXX7XNm.gif"
-    alt="akiakyo animated logo"
+    alt="animated logo"
     width="230"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Self-Taught+Minecraft+Developer;Denizen+Script+Developer;Discord+Bot+Developer;Web+Developer;Video+Editor;Server+Optimization+Specialist"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Software+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Digital+Creator"
     alt="Animated introduction"
   />
 </p>
 
 <p align="center">
-  I develop Minecraft servers, custom scripts, Discord bots, websites,
-  automation systems, and optimized gameplay experiences.
+  Computer Engineering student at the Polytechnic University of the Philippines,
+  passionate about software development, web technologies, creative design,
+  and building digital solutions.
 </p>
 
 <p align="center">
@@ -27,42 +28,25 @@
 
 ---
 
-<h2 align="center">Live Websites</h2>
-
-<p align="center">
-  <a href="https://akiakyo.dev/">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-AKIAKYO.DEV-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-      alt="akiakyo.dev"
-    />
-  </a>
-
-  <a href="https://magbungkal.com/">
-    <img
-      src="https://img.shields.io/badge/MAGBUNGKAL-MAGBUNGKAL.COM-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-      alt="magbungkal.com"
-    />
-  </a>
-</p>
-
----
-
 <h2 align="center">About Me</h2>
 
 <table>
   <tbody>
     <tr>
-      <td><strong>Primary Role</strong></td>
-      <td>Minecraft Server Developer</td>
+      <td><strong>Education</strong></td>
+      <td>Computer Engineering | Polytechnic University of the Philippines</td>
     </tr>
+
     <tr>
-      <td><strong>Specialization</strong></td>
-      <td>Denizen scripting, server optimization, plugin configuration, and custom systems</td>
+      <td><strong>Focus</strong></td>
+      <td>Software Engineering, Web Development, System Design, and Digital Solutions</td>
     </tr>
+
     <tr>
-      <td><strong>Additional Work</strong></td>
-      <td>Discord bots, websites, automation tools, graphic design, and video editing</td>
+      <td><strong>Interests</strong></td>
+      <td>Programming, UI/UX Design, Automation, Video Editing, and Technology</td>
     </tr>
+
     <tr>
       <td><strong>Location</strong></td>
       <td>Philippines</td>
@@ -72,36 +56,30 @@
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=akiakyo&theme=github-dark-blue&hide_border=true"
-    alt="akiakyo GitHub Contribution Streak"
-  />
-</p>
-
----
-
-<h2 align="center">Languages and Technologies</h2>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,java,js,nodejs,lua,mysql,bash,html,css&theme=dark&perline=9"
-    alt="Languages and technologies"
+    src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,react,prisma,postgres,nodejs,express,flutter,dart,python,java,cpp,mysql&theme=dark&perline=7"
+    alt="Tech Stack"
   />
 </p>
 
 <p align="center">
+  <code>TypeScript</code>
+  <code>Next.js</code>
+  <code>Tailwind CSS</code>
+  <code>React</code>
+  <code>Prisma</code>
+  <code>PostgreSQL</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>Flutter</code>
+  <code>Dart</code>
   <code>Python</code>
   <code>Java</code>
-  <code>JavaScript</code>
-  <code>Node.js</code>
-  <code>Lua</code>
+  <code>C++</code>
   <code>MySQL</code>
-  <code>Shell Script</code>
-  <code>HTML</code>
-  <code>CSS</code>
 </p>
 
 ---
@@ -110,143 +88,101 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode,idea,linux,ubuntu&theme=dark&perline=8"
-    alt="Development tools"
+    src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,linux,ubuntu,vercel,figma,postman&theme=dark&perline=10"
+    alt="Development Tools"
   />
 </p>
 
 <p align="center">
+  <code>Visual Studio Code</code>
+  <code>IntelliJ IDEA</code>
   <code>Git</code>
   <code>GitHub</code>
   <code>Docker</code>
-  <code>Maven</code>
-  <code>Visual Studio Code</code>
-  <code>IntelliJ IDEA</code>
   <code>Linux</code>
   <code>Ubuntu</code>
+  <code>Vercel</code>
+  <code>Figma</code>
+  <code>Postman</code>
 </p>
-
-<h2 align="center">Editing Software</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" />
-      <br>
-      <sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" height="48" alt="After Effects" />
-      <br>
-      <sub><b>After Effects</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator" />
-      <br>
-      <sub><b>Illustrator</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut Pro" />
-      <br>
-      <sub><b>CapCut Pro</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Editing Software</h2>
 
 <p align="center">
-  Minecraft development, server optimization, automation, and community-driven projects.
+  <img
+    src="https://skillicons.dev/icons?i=ps,ai,ae,pr&theme=dark&perline=4"
+    alt="Editing Software"
+  />
 </p>
+
+<p align="center">
+  <code>Adobe Photoshop</code>
+  <code>Adobe Illustrator</code>
+  <code>Adobe After Effects</code>
+  <code>Adobe Premiere Pro</code>
+  <code>CapCut</code>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/CapCut-Pro-000000?style=for-the-badge&logo=capcut&logoColor=white"
+    alt="CapCut Pro"
+  />
+</p>
+
+---
+
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akiakyo&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=akiakyo&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<h2 align="center">Featured Skills</h2>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<br>
-
-<h3>AKY Services</h3>
+<h3>Software Development</h3>
 
 <p>
-Professional Minecraft development services focused on custom systems,
-scripting, plugin configuration, optimization, automation, and Discord integration.
+Building applications, websites, APIs, and software solutions
+using modern development technologies.
 </p>
 
-<p>
-<code>Denizen Scripting</code>
-<code>Plugin Configuration</code>
-<code>Discord Bots</code>
-</p>
-
-<p>
-<code>Paper</code>
-<code>Purpur</code>
-<code>Spigot</code>
-<code>Velocity</code>
-</p>
-
-<p>
-<code>LuckPerms</code>
-<code>ProtocolLib</code>
-<code>PlaceholderAPI</code>
-</p>
-
-<p>
-<code>MythicMobs</code>
-<code>Citizens</code>
-<code>ViaVersion</code>
-</p>
-
-<p>
-<code>WorldEdit</code>
-<code>WorldGuard</code>
-<code>GeyserMC</code>
-<code>Floodgate</code>
-</p>
-
-<p>
-<code>Spark Profiler</code>
-<code>DiscordSRV</code>
-<code>Nexo</code>
-<code>Oraxen</code>
-</p>
-
-<br>
+<code>Frontend</code>
+<code>Backend</code>
+<code>Database</code>
+<code>Mobile Apps</code>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<br>
-
-<h3>Magbungkal MC</h3>
+<h3>Creative Technology</h3>
 
 <p>
-A Filipino Minecraft network featuring Survival Economy, SkyBlock Economy,
-custom gameplay systems, community features, and server automation.
+Combining programming with design, multimedia editing,
+and digital content creation.
 </p>
 
-<p>
-<code>Survival Economy</code>
-<code>SkyBlock Economy</code>
-</p>
-
-<p>
-<code>Custom Gameplay</code>
-<code>Server Automation</code>
-</p>
-
-<p><strong>Established</strong><br>July 2023</p>
-<p><strong>Former Owner</strong><br>July 2023 – March 2025</p>
-<p><strong>Current Developer</strong><br>March 2025 – Present</p>
-
-<br>
+<code>UI/UX</code>
+<code>Graphics</code>
+<code>Video Editing</code>
+<code>Digital Design</code>
 
 </td>
 </tr>
@@ -257,35 +193,27 @@ custom gameplay systems, community features, and server automation.
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://akiakyo.dev/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-      alt="Portfolio"
-    />
-  </a>
 
-  <a href="https://github.com/akiakyo">
-    <img
-      src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/akiakyo">
+<img
+src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
+/>
+</a>
 
-  <a href="https://magbungkal.com/">
-    <img
-      src="https://img.shields.io/badge/Magbungkal-161B22?style=for-the-badge&logo=googlechrome&logoColor=22C55E"
-      alt="Magbungkal"
-    />
-  </a>
+<a href="https://akiakyo.dev/">
+<img
+src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
+/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/Discord-akiakyo-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"
-    alt="Discord akiakyo"
-  />
+<img
+src="https://img.shields.io/badge/Discord-akiakyo-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"
+/>
+
 </p>
 
 ---
 
 <p align="center">
-  Building optimized Minecraft experiences, custom tools, and digital content.
+  Building software, designing experiences, and exploring technology.
 </p>
