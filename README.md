@@ -87,14 +87,14 @@
 
 ---
 
-<h2 align="left">Connect With Me</h2>
-
 <p align="left">
 
 <a href="https://www.instagram.com/ak___y__o/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-ak___y__o-E4405F?style=social&logo=instagram"/>
 </a>
 
-<img src="https://img.shields.io/badge/Discord-%40akiakyo-5865F2?style=social&logo=discord&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-%40akiakyo-5865F2?style=social&logo=discord"/>
+</a>
 
 </p>
