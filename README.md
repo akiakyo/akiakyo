@@ -74,92 +74,11 @@
 <h2 align="center">Editing Software</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ps,ai,ae,pr&theme=dark&perline=4"
-    alt="Editing Software"
-  />
-</p>
 
-<p align="center">
-  <code>Adobe Photoshop</code>
-  <code>Adobe Illustrator</code>
-  <code>Adobe After Effects</code>
-  <code>Adobe Premiere Pro</code>
-  <code>CapCut</code>
-</p>
+<img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/PREMIERE%20PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/CapCut-Pro-000000?style=for-the-badge&logo=capcut&logoColor=white"
-    alt="CapCut Pro"
-  />
-</p>
-
-
-<h2 align="center">Featured Skills</h2>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h3>Software Development</h3>
-
-<p>
-Building applications, websites, APIs, and software solutions
-using modern development technologies.
-</p>
-
-<code>Frontend</code>
-<code>Backend</code>
-<code>Database</code>
-<code>Mobile Apps</code>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>Creative Technology</h3>
-
-<p>
-Combining programming with design, multimedia editing,
-and digital content creation.
-</p>
-
-<code>UI/UX</code>
-<code>Graphics</code>
-<code>Video Editing</code>
-<code>Digital Design</code>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://github.com/akiakyo">
-<img
-src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
-/>
-</a>
-
-<a href="https://akiakyo.dev/">
-<img
-src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-/>
-</a>
-
-<img
-src="https://img.shields.io/badge/Discord-akiakyo-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"
-/>
-
-</p>
-
----
-
-<p align="center">
-  Building software, designing experiences, and exploring technology.
 </p>
