@@ -53,20 +53,20 @@
 <h2 align="center">Development Tools</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,linux,ubuntu,vercel,figma,postman&theme=dark&perline=10"
-    alt="Development Tools"
-  />
-</p>
 
-<p align="center">
-  <code>Visual Studio Code</code>
-  <code>IntelliJ IDEA</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Docker</code>
-  <code>Vercel</code>
-  <code>Figma</code>
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
 ---
