@@ -8,14 +8,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Software+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Digital+Creator"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Software+Engineer;Full+Stack+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Digital+Creator"
     alt="Animated introduction"
   />
 </p>
 
 <p align="center">
   Computer Engineering student at the Polytechnic University of the Philippines,
-  passionate about software development, web technologies, creative design,
+  passionate about software engineering, web technologies, creative design,
   and building digital solutions.
 </p>
 
