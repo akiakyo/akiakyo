@@ -26,7 +26,6 @@
   />
 </p>
 
-<h2 align="left">Tech Stack</h2>
 
 <p align="left">
 
@@ -56,8 +55,6 @@
 </p>
 
 
-<h2 align="left">Development Tools</h2>
-
 <p align="left">
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
@@ -67,8 +64,6 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
 
 </p>
-
-<h2 align="left">Editing Software</h2>
 
 <p align="left">
 
