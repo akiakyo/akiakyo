@@ -26,8 +26,6 @@
   />
 </p>
 
----
-
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
@@ -57,7 +55,6 @@
 
 </p>
 
----
 
 <h2 align="left">Development Tools</h2>
 
@@ -71,8 +68,6 @@
 
 </p>
 
----
-
 <h2 align="left">Editing Software</h2>
 
 <p align="left">
@@ -84,105 +79,6 @@
 <img src="https://img.shields.io/badge/CapCut-000000?style=plastic&logo=capcut&logoColor=white"/>
 
 </p>
-
----
-
----
-
----
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">💗 SintaChat</h3>
-
-<p align="center">
-  <a href="https://sintachat.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-FF6B9D?style=plastic&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-A real-time anonymous chat and matching platform built for student communities.
-
-<br><br>
-
-Tech:
-<br>
-Next.js • React • TypeScript • Socket.IO • PostgreSQL
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">⚔️ Denizen Scripts</h3>
-
-<p align="center">
-  <a href="https://github.com/akiakyo/denizen-scripts">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=plastic&logo=github"/>
-  </a>
-</p>
-
-<p align="center">
-A collection of DenizenScript projects created for Minecraft server development.
-
-<br><br>
-
-Tech:
-<br>
-DenizenScript • Minecraft • YAML
-
-</p>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛠️ AKY Services</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Development-62B47A?style=plastic&logo=minecraft"/>
-</p>
-
-<p align="center">
-Minecraft server development services focused on scripting, optimization, plugins, and custom systems.
-
-<br><br>
-
-Services:
-<br>
-Denizen • Plugins • Bots • Optimization
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📱 More Projects</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coming_Soon-Projects-5865F2?style=plastic"/>
-</p>
-
-<p align="center">
-More software, mobile, and automation projects will be added here.
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
 
 <p align="left">
 
