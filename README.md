@@ -87,6 +87,46 @@
 
 ---
 
+---
+
+<h2 align="left">Featured Projects</h2>
+
+<p align="left">
+
+<a href="https://sintachat.vercel.app/">
+  <img 
+    src="https://img.shields.io/badge/SintaChat-Anonymous%20Chat%20Platform-FF6B9D?style=plastic&logo=chatbot&logoColor=white"
+  />
+</a>
+
+</p>
+
+<p align="left">
+  <b>SintaChat</b><br>
+  A real-time anonymous chat and matching platform built for student communities.
+  Features include anonymous matching, real-time messaging, reactions, voice notes,
+  Freedom Wall, and moderation tools.
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Next.js-15-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=plastic&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=plastic&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+
+</p>
+
+<p align="left">
+🔗 Live Demo:
+<a href="https://sintachat.vercel.app/">
+https://sintachat.vercel.app/
+</a>
+</p>
+
+---
+
 <p align="left">
 
 <a href="https://www.instagram.com/ak___y__o/">
