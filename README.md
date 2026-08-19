@@ -89,37 +89,98 @@
 
 ---
 
+---
+
 <h2 align="left">🚀 Featured Projects</h2>
 
-<p align="left">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://sintachat.vercel.app/">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=akiakyo&repo=sintachat&theme=github_dark&hide_border=true"
-  />
-</a>
+<h3 align="center">💗 SintaChat</h3>
+
+<p align="center">
+  <a href="https://sintachat.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-FF6B9D?style=plastic&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+A real-time anonymous chat and matching platform built for student communities.
+
+<br><br>
+
+Tech:
+<br>
+Next.js • React • TypeScript • Socket.IO • PostgreSQL
 
 </p>
 
-<p align="left">
+</td>
 
-<a href="https://github.com/akiakyo/denizen-scripts">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=akiakyo&repo=denizen-scripts&theme=github_dark&hide_border=true"
-  />
-</a>
+<td width="50%">
+
+<h3 align="center">⚔️ Denizen Scripts</h3>
+
+<p align="center">
+  <a href="https://github.com/akiakyo/denizen-scripts">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=plastic&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+A collection of DenizenScript projects created for Minecraft server development.
+
+<br><br>
+
+Tech:
+<br>
+DenizenScript • Minecraft • YAML
 
 </p>
 
-<p align="left">
+</td>
+</tr>
 
-<a href="https://github.com/akiakyo/aky-services">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=akiakyo&repo=aky-services&theme=github_dark&hide_border=true"
-  />
-</a>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛠️ AKY Services</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-Development-62B47A?style=plastic&logo=minecraft"/>
+</p>
+
+<p align="center">
+Minecraft server development services focused on scripting, optimization, plugins, and custom systems.
+
+<br><br>
+
+Services:
+<br>
+Denizen • Plugins • Bots • Optimization
 
 </p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📱 More Projects</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming_Soon-Projects-5865F2?style=plastic"/>
+</p>
+
+<p align="center">
+More software, mobile, and automation projects will be added here.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
