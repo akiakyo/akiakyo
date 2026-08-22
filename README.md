@@ -8,7 +8,7 @@
 
 <!-- <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Software+Engineer;Full+Stack+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Digital+Creator"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Computer+Engineering+Student;Studying+System+Engineering;Video+Editor"
     alt="Animated introduction"
   />
 </p> -->
