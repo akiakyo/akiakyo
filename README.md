@@ -15,7 +15,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=58A6FF&width=800&lines=Computer+Engineering+Student+%40+Polytechnic+University+of+the+Philippines;Studying+Software+Engineer;Building+creative+and+scalable+digital+solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=58A6FF&width=800&lines=Computer+Engineering+Student+%40+Polytechnic+University+of+the+Philippines;Studying+Software+Engineering;Building+creative+and+scalable+digital+solutions"
     alt="Animated bio"
   />
 </p>
