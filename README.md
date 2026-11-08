@@ -26,20 +26,34 @@ most of my learning comes from shipping real projects, solving technical problem
 
 `> current roles`
 
-| | role | what i do |
-|---|---|---|
-| **[sintachat](https://sintachat.com)** | founder | leading product direction and engineering for a real-time anonymous student chat platform: matchmaking, moderation, community features, edge infrastructure, and deployment. |
-| **[zxeno studio](https://zxenostudio.com)** | cto · software engineer | technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences. |
-| **[magbungkal mc](https://magbungkal.com)** | lead developer | leading development for magbungkal mc and maintaining its web presence. |
-| **polytechnic university of the philippines** | computer engineering student | specialization in software engineering. |
+<table>
+  <tr>
+    <td width="45%"><a href="https://sintachat.com"><img src="assets/projects/sintachat.png" alt="sintachat website"></a></td>
+    <td width="55%"><img src="assets/logos/sinta.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://sintachat.com">sintachat</a></b><br>&nbsp;<sub>founder</sub><br><br>leading product direction and engineering for a real-time anonymous student chat platform: matchmaking, moderation, community features, edge infrastructure, and deployment.<br><br><sub>next.js · react · typescript · cloudflare workers · durable objects · websockets · d1</sub></td>
+  </tr>
+  <tr>
+    <td width="45%"><a href="https://zxenostudio.com"><img src="assets/projects/zxeno.png" alt="zxeno studio website"></a></td>
+    <td width="55%"><img src="assets/logos/zxeno.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://zxenostudio.com">zxeno studio</a></b><br>&nbsp;<sub>cto · software engineer</sub><br><br>technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences.<br><br><sub>react · typescript · vite</sub></td>
+  </tr>
+  <tr>
+    <td width="45%"><a href="https://magbungkal.com"><img src="assets/projects/magbungkal.png" alt="magbungkal mc website"></a></td>
+    <td width="55%"><img src="assets/logos/mag.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://magbungkal.com">magbungkal mc</a></b><br>&nbsp;<sub>lead developer</sub><br><br>leading development for magbungkal mc, a filipino minecraft community, and maintaining its web presence.<br><br><sub>html · javascript</sub></td>
+  </tr>
+</table>
+
+<img src="assets/logos/pup.webp" width="28" align="left" alt="">&nbsp;**polytechnic university of the philippines**: computer engineering student, specialization in software engineering.
 
 ## side projects
 
 `> things i built for fun & friends`
 
-- **[yrah](https://yrah.vercel.app)**: free flashcard maker. turn pdfs, word docs, slides, notes and photos of your notebook into flashcards in seconds.
-- **[ken.visuals](https://kenvisuals.vercel.app)**: portfolio for a motion designer, with an editor-inspired interface of timelines, speed graphs and tool panels.
-- **[akademy](https://akademyy.vercel.app)**: free coding tutorials. 34 courses and 133 short lessons in a chalkboard theme, with a live editor, flashcards, quizzes and certificates.
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="https://yrah.vercel.app"><img src="assets/projects/yrah.webp" alt="yrah"></a><br><b><a href="https://yrah.vercel.app">yrah</a></b><br><sub>free flashcard maker</sub><br><br>turn pdfs, word docs, slides, notes and photos of your notebook into flashcards in seconds. no sign up, works offline.</td>
+    <td width="33%" valign="top"><a href="https://kenvisuals.vercel.app"><img src="assets/projects/ken.webp" alt="ken.visuals"></a><br><b><a href="https://kenvisuals.vercel.app">ken.visuals</a></b><br><sub>portfolio for a motion designer</sub><br><br>an editor-inspired interface of timelines, speed graphs and tool panels.</td>
+    <td width="33%" valign="top"><a href="https://akademyy.vercel.app"><img src="assets/projects/akademy.webp" alt="akademy"></a><br><b><a href="https://akademyy.vercel.app">akademy</a></b><br><sub>free coding tutorials</sub><br><br>34 courses and 133 short lessons in a chalkboard theme, with a live editor, flashcards, quizzes and certificates.</td>
+  </tr>
+</table>
 
 ## tech stack
 
