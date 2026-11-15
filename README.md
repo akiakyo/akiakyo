@@ -1,26 +1,11 @@
-<table>
-  <tr>
-    <td><img src="assets/stack/languages.svg" width="192" alt="c++, python, java, javascript, typescript"/></td>
-    <td><b>languages</b><br><sub>c++ · python · java · javascript · typescript</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/stack/web-frontend.svg" width="192" alt="next.js, react, vite, tailwind css, html"/></td>
-    <td><b>web & frontend</b><br><sub>next.js · react · vite · tailwind css · html</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/stack/backend-realtime.svg" width="226" alt="node.js, express, prisma, cloudflare workers, durable objects, websockets"/></td>
-    <td><b>backend & real-time</b><br><sub>node.js · express · prisma · cloudflare workers · durable objects · websockets</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/stack/databases.svg" width="158" alt="mysql, postgresql, cloudflare d1, sqlite"/></td>
-    <td><b>databases</b><br><sub>mysql · postgresql · cloudflare d1 · sqlite</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/stack/tools-deployment.svg" width="226" alt="vs code, intellij idea, git, github, vercel, cloudflare, wrangler"/></td>
-    <td><b>tools & deployment</b><br><sub>vs code · intellij idea · git · github · vercel · cloudflare · wrangler</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/stack/creative.svg" width="192" alt="photoshop, illustrator, after effects, premiere pro, capcut"/></td>
-    <td><b>creative</b><br><sub>photoshop · illustrator · after effects · premiere pro · capcut</sub></td>
-  </tr>
-</table>
+<p><img src="assets/stack/languages.svg" width="192" align="absmiddle" alt="c++, python, java, javascript, typescript"/>&nbsp;&nbsp;<b>languages</b>&nbsp; <sub>c++ · python · java · javascript · typescript</sub></p>
+
+<p><img src="assets/stack/web-frontend.svg" width="192" align="absmiddle" alt="next.js, react, vite, tailwind css, html"/>&nbsp;&nbsp;<b>web & frontend</b>&nbsp; <sub>next.js · react · vite · tailwind css · html</sub></p>
+
+<p><img src="assets/stack/backend-realtime.svg" width="226" align="absmiddle" alt="node.js, express, prisma, cloudflare workers, durable objects, websockets"/>&nbsp;&nbsp;<b>backend & real-time</b>&nbsp; <sub>node.js · express · prisma · cloudflare workers · durable objects · websockets</sub></p>
+
+<p><img src="assets/stack/databases.svg" width="158" align="absmiddle" alt="mysql, postgresql, cloudflare d1, sqlite"/>&nbsp;&nbsp;<b>databases</b>&nbsp; <sub>mysql · postgresql · cloudflare d1 · sqlite</sub></p>
+
+<p><img src="assets/stack/tools-deployment.svg" width="226" align="absmiddle" alt="vs code, intellij idea, git, github, vercel, cloudflare, wrangler"/>&nbsp;&nbsp;<b>tools & deployment</b>&nbsp; <sub>vs code · intellij idea · git · github · vercel · cloudflare · wrangler</sub></p>
+
+<p><img src="assets/stack/creative.svg" width="192" align="absmiddle" alt="photoshop, illustrator, after effects, premiere pro, capcut"/>&nbsp;&nbsp;<b>creative</b>&nbsp; <sub>photoshop · illustrator · after effects · premiere pro · capcut</sub></p>
