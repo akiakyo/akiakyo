@@ -28,20 +28,21 @@ most of my learning comes from shipping real projects, solving technical problem
 
 <table>
   <tr>
-    <td width="45%"><a href="https://sintachat.com"><img src="assets/projects/sintachat.png" alt="sintachat website"></a></td>
-    <td width="55%"><img src="assets/logos/sinta.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://sintachat.com">sintachat</a></b><br>&nbsp;<sub>founder</sub><br><br>leading product direction and engineering for a real-time anonymous student chat platform: matchmaking, moderation, community features, edge infrastructure, and deployment.<br><br><sub>next.js · react · typescript · cloudflare workers · durable objects · websockets · d1</sub></td>
+    <td width="45%" valign="top"><a href="https://sintachat.com"><img src="assets/projects/sintachat.png" alt="sintachat website"></a></td>
+    <td width="55%" valign="top"><img src="assets/logos/sinta.webp" width="22" alt="">&nbsp; <b><a href="https://sintachat.com">sintachat</a></b><br><sub>founder</sub><br><br>leading product direction and engineering for a real-time anonymous student chat platform: matchmaking, moderation, community features, edge infrastructure, and deployment.<br><br><sub>next.js · react · typescript · cloudflare workers · durable objects · websockets · d1</sub></td>
   </tr>
   <tr>
-    <td width="45%"><a href="https://zxenostudio.com"><img src="assets/projects/zxeno.png" alt="zxeno studio website"></a></td>
-    <td width="55%"><img src="assets/logos/zxeno.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://zxenostudio.com">zxeno studio</a></b><br>&nbsp;<sub>cto · software engineer</sub><br><br>technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences.<br><br><sub>react · typescript · vite</sub></td>
+    <td width="45%" valign="top"><a href="https://zxenostudio.com"><img src="assets/projects/zxeno.png" alt="zxeno studio website"></a></td>
+    <td width="55%" valign="top"><img src="assets/logos/zxeno.webp" width="22" alt="">&nbsp; <b><a href="https://zxenostudio.com">zxeno studio</a></b><br><sub>cto · software engineer</sub><br><br>technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences.<br><br><sub>react · typescript · vite</sub></td>
   </tr>
   <tr>
-    <td width="45%"><a href="https://magbungkal.com"><img src="assets/projects/magbungkal.png" alt="magbungkal mc website"></a></td>
-    <td width="55%"><img src="assets/logos/mag.webp" width="28" align="left" alt="">&nbsp;<b><a href="https://magbungkal.com">magbungkal mc</a></b><br>&nbsp;<sub>lead developer</sub><br><br>leading development for magbungkal mc, a filipino minecraft community, and maintaining its web presence.<br><br><sub>html · javascript</sub></td>
+    <td width="45%" valign="top"><a href="https://magbungkal.com"><img src="assets/projects/magbungkal.png" alt="magbungkal mc website"></a></td>
+    <td width="55%" valign="top"><img src="assets/logos/mag.webp" width="22" alt="">&nbsp; <b><a href="https://magbungkal.com">magbungkal mc</a></b><br><sub>lead developer</sub><br><br>leading development for magbungkal mc, a filipino minecraft community, and maintaining its web presence.<br><br><sub>html · javascript</sub></td>
   </tr>
 </table>
 
-<img src="assets/logos/pup.webp" width="28" align="left" alt="">&nbsp;**polytechnic university of the philippines**: computer engineering student, specialization in software engineering.
+<img src="assets/logos/pup.webp" width="22" alt="">&nbsp; **polytechnic university of the philippines**<br>
+<sub>computer engineering student · specialization in software engineering</sub>
 
 ## side projects
 
