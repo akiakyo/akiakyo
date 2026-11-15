@@ -33,7 +33,7 @@ most of my learning comes from shipping real projects, solving technical problem
   </tr>
   <tr>
     <td width="45%" valign="top"><a href="https://zxenostudio.com"><img src="assets/projects/zxeno.png" alt="zxeno studio website"></a></td>
-    <td width="55%" valign="top"><img src="assets/logos/zxeno.webp" width="22" alt="">&nbsp; <b><a href="https://zxenostudio.com">zxeno studio</a></b><br><sub>cto · software engineer</sub><br><br>technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences.<br><br><sub>react · typescript · vite</sub></td>
+    <td width="55%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/zxeno-dark.webp"><img src="assets/logos/zxeno.webp" width="22" alt=""></picture>&nbsp; <b><a href="https://zxenostudio.com">zxeno studio</a></b><br><sub>cto · software engineer</sub><br><br>technical direction and software engineering for the studio, from implementation decisions and web development to deployment workflows and production-ready experiences.<br><br><sub>react · typescript · vite</sub></td>
   </tr>
   <tr>
     <td width="45%" valign="top"><a href="https://magbungkal.com"><img src="assets/projects/magbungkal.png" alt="magbungkal mc website"></a></td>
